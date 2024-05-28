@@ -45,7 +45,7 @@ I'm passionate about sharing my journey and learnings in tech. Feel free to reac
 
 ## 🌐 Find Me Online:
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Socials:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/christianah-adejumo-2a8a2115a//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christianah-adejumo-2a8a2115a/" height="30" width="40" /></a>
 </p>
