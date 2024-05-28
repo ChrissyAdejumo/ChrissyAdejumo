@@ -1,8 +1,10 @@
-## 👋 Hi there, I'm Christianah
+# 💫 About Me:
+
+## 👋 Hi, I'm Christianah
 
 😄 Pronouns: She/her
 
-I'm a dynamic and proactive technology professional with a solid background in web support and technical troubleshooting. I value simplicity and creativity in crafting solutions, always seeking innovative ways to address challenges. With a passion for continuous learning and a keen eye for detail, I strive to turn obstacles into growth opportunities and make impactful contributions in the tech field. My commitment to excellence ensures that even the smallest details are considered, creating true works of art in my work.
+I'm a dynamic and proactive technology professional with a solid background in web support and technical troubleshooting. I value simplicity and creativity in crafting solutions, always seeking innovative ways to address challenges.<br> With a passion for continuous learning and a keen eye for detail, I strive to turn obstacles into growth opportunities and make impactful contributions in the tech field. 
 
 ## 🛠️ Skills
 - **Technical Skills**: Python, SQL, Database management, JavaScript, Front-end development, API Integrations
@@ -30,10 +32,6 @@ I'm a dynamic and proactive technology professional with a solid background in w
 ## 💼 Career Aspiration
 I am looking to progress from a support analyst role to a position in a product or API team. My current focus is on mastering API technologies through LinkedIn courses to achieve this goal.
 
-## 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/christianah-adejumo)
-- [GitHub](https://github.com/your-github-ChrissyAdejumo)
-
 ## 🌱 Currently Learning
 - API technologies through LinkedIn courses
 
@@ -44,16 +42,31 @@ I am looking to progress from a support analyst role to a position in a product 
 I'm passionate about sharing my journey and learnings in tech. Feel free to reach out if you'd like to collaborate or chat about tech, career growth, or new opportunities!
 
 --
-<!-- GitHib stats from https://github.com/anuraghazra/github-readme-stats -->
-![Chrissy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissyadejumo&show_icons=true&theme=radical&hide=contribs,prs&show_icons=true)
 
-# 💻 Tech Stack
+# 🌐 Find Me Online:
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/christianah-adejumo-2a8a2115a//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/christianah-adejumo-2a8a2115a/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+# 📊 GitHub Stats:
+
+<!-- GitHib stats from https://github.com/anuraghazra/github-readme-stats, https://gprm.itsvg.in/-->
+![Chrissy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrissyadejumo&show_icons=true&theme=radical&hide=contribs,prs&show_icons=true) 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrissyadejumo&show_icons=true&locale=en&layout=compact" alt="chrissyadejumo" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chrissyadejumo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=chrissyadejumo&icon=9&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
