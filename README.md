@@ -43,7 +43,7 @@ I'm passionate about sharing my journey and learnings in tech. Feel free to reac
 
 --
 
-# 🌐 Find Me Online:
+## 🌐 Find Me Online:
 
 <h3 align="left">Socials:</h3>
 <p align="left">
