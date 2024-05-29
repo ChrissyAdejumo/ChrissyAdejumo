@@ -8,25 +8,24 @@ I'm a dynamic and proactive technology professional with a solid background in w
 
 ## 🛠️ Skills
 - **Technical Skills**: Python, SQL, Database management, JavaScript, Front-end development, API Integrations
-- **Soft Skills**: Critical Thinking, Project Planning, Teamwork, Communication, Presentation Skills
 - **Web Development**: Diagnosing and resolving web-related issues, enhancing front-end functionality
 - **Data Analysis**: Data Visualization, Reporting Tools (Excel, Report Builder, etc.)
 
 ## 🌟 Experience
-### Support Analyst at Spektrix (At Present)
+### Support Analyst (At Present)
 - **Technical Expertise & Troubleshooting**: Delivering exceptional support through proactive troubleshooting, resolving complex issues, and exceeding SLA expectations.
 - **Root Cause Analysis & Collaboration**: Leading triage and escalation of incidents, collaborating with engineering and product teams to resolve bugs and implement solutions.
 - **Process Improvement**: Streamlined support processes by creating innovative documentation, resulting in a 10% efficiency gain.
 - **Relationship Management**: Cultivated strong client relationships, enhancing software integrations and maximizing product benefits.
 
-### JavaScript Developer at Code First Girls (Mar 2023 – May 2023)
+### JavaScript Bootcamp at Code First Girls 
 - Mastered essential JavaScript concepts and built real-world web apps using React and Node.js.
 - Developed high-performance web applications to meet user needs and exceed expectations.
 
-### Intro to Programming with Python at Women in Tech (Mar 2023 – May 2023)
+### Intro to Programming with Python at Women in Tech 
 - Attained proficiency in Python through an 8-week bootcamp, developing a Python project to showcase programming skills.
 
-### Data and SQL Developer at Code First Girls (Oct 2022 – Dec 2022)
+### Data and SQL Bootcamp at Code First Girls 
 - Gained proficiency in database design and SQL, driving continuous improvements in data management.
 
 ## 💼 Career Aspiration
